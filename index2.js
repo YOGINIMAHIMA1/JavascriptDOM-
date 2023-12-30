@@ -12,3 +12,8 @@ function onClick()
   console.log('click the body')
 }
 target.addEventListener('click', onClick) // no of times you click on web page it will count
+
+function handleClick2()                // <h1 onclick="handleClick2()">Example Domain</h1>
+{
+  console.log('click the heading');
+}
