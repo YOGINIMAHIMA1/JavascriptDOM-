@@ -37,3 +37,4 @@ h2.setAttribute('class','heading-3');
 console.log(h2);
 //VM871:1 <h2 id=​"heading-2" class=​"heading-3">​heading 2​</h2>​
 //undefined
+document.body.appendChild(h2);
