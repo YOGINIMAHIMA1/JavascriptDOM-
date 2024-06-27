@@ -1,0 +1,1 @@
+ # jab no of functions ko sequence me call krna hai tab composition of function use krenge

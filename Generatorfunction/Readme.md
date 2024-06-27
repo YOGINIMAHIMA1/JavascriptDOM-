@@ -1,0 +1,1 @@
+#      Iterator Pattern          Genearator Function    #YIELD Keyword
